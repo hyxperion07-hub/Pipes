@@ -1,0 +1,16 @@
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+
+# Local builds
+build.rbxl
+
+# Pesde
+/roblox_packages
+/roblox_server_packages
+/luau_packages
+/lune_packages
+/.pesde
+
+# Rojo
+sourcemap.json
